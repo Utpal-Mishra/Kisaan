@@ -10,6 +10,7 @@ html{
     font-family: 'M PLUS Rounded 1c', sans-serif;
     font-family: 'Montserrat', sans-serif;
     color: black;
+    background: rgba(0,0,0,0.1);
 } 
 
 header{
@@ -35,6 +36,10 @@ header .brand{
 
 header .navigation{
     position: relative;
+}
+
+video{
+    filter:brightness(60%);
 }
 
 .navigation-content h1{
@@ -67,7 +72,7 @@ a:active {
 
 header .navigation .navigation-items a{
     position: relative;
-    color: #fff;
+    color: #000000;
     font-size: 1em;
     font-weight: 500;
     text-decoration: none;
@@ -122,7 +127,7 @@ section{
  }
 
 .home .content h3{
-    font-size: 3em;
+    font-size: 2.5em;
     font-weight: 550;
     text-transform: uppercase;
     letter-spacing: 2px;
