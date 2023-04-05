@@ -142,12 +142,14 @@ header .navigation .navigation-items a:after{
     }
 }
 
-/* About Section */
+/* About Section 
+Sky Blue Color: https://htmlcolorcodes.com/colors/sky-blue/
+Sand Color: https://www.color-hex.com/color-palette/11392 */
 
 .wrapper{
     min-height: 100vh;
     width: 100%;
-    background-image: linear-gradient(rgba(55, 198, 255, 0.50), rgba(225, 191, 146, 0.50)), url(images/PalmPrint.jpg);
+    background-image: linear-gradient(rgba(55, 198, 255, 0.50), rgba(225, 191, 146, 0.50)), url(images/Logo.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
