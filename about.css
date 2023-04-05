@@ -147,7 +147,7 @@ header .navigation .navigation-items a:after{
 .wrapper{
     min-height: 100vh;
     width: 100%;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.75), rgba(100, 0, 0, 0.75)), url(images/PalmPrint.jpg);
+    background-image: linear-gradient(rgba(55, 198, 255, 0.50), rgba(225, 191, 146, 0.50)), url(images/PalmPrint.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
